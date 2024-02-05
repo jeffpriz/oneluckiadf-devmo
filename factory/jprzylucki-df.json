@@ -1,0 +1,9 @@
+{
+	"name": "jprzylucki-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a2ffb2e-6f6f-49d1-9e19-d6e6a6b80838",
+		"tenantId": "7c55576f-e738-4097-8c71-053078eadf3f"
+	}
+}
